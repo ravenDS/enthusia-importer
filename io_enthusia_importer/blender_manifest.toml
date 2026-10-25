@@ -1,0 +1,24 @@
+schema_version = "1.0.0"
+
+id = "io_enthusia_importer"
+version = "1.1.0"
+name = "Enthusia Importer (PS2)"
+tagline = "Import Enthusia Professional Racing PS2 cars and courses"
+maintainer = "ravenDS"
+type = "add-on"
+
+website = "https://github.com/ravenDS/enthusia-importer"
+
+tags = ["Import-Export"]
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+copyright = [
+  "2026 ravenDS",
+]
+
+[permissions]
+files = "Read the selected pack and its companion game files"
